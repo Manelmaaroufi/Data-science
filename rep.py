@@ -1,0 +1,12 @@
+s='Hey python c est quoi une chaine?'
+print(len(s))
+print(s.index('c'))
+print(s.count('c'))
+print(s[5:10])
+print(s[5:10])
+print(s[-5:])
+print(s.upper())
+print(s.lower())
+print(s.startswith(''))
+print(s.endswith(''))
+print(s.capitalize())
